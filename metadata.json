@@ -1,0 +1,6 @@
+{
+  "name": "Account Security Hub",
+  "description": "Protect your account with audit logs, SSO, simulated two-factor authentication, session management, zone holds, and an interactive OWASP SQL Injection playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
